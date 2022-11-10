@@ -5,7 +5,7 @@ import cn.geektang.privacyspace.BuildConfig
 object ConfigConstant {
     const val ANDROID_FRAMEWORK = "android"
     const val CONFIG_FILE_FOLDER_ORIGINAL = "/data/system/privacy_space/"
-    const val CONFIG_FILE_FOLDER = "/data/system/${BuildConfig.APPLICATION_ID}/"
+    const val CONFIG_FILE_FOLDER = "/data/system/${BuildConfig.APPLICATION_ID}_753g8EIO/"
     const val CONFIG_FILE_JSON = "config.json"
 
     val defaultWhitelist = setOf(
